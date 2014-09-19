@@ -11,7 +11,6 @@ Alice.html and the corresponding xml, css, and image files were created as part 
 
 Written in the 19th century, the beloved tale of a young girl’s adventures in a far off land has engaged reader’s imaginations for generations and is the focus of this assignment. 
 
-<h3>Characteristics of Text</h3>
 Alice’s Adventures in Wonderland, penned by Lewis Carroll, provides a number of unique characteristics to be explored through XML mark up. 
 
 <h3>Opening poems</h3>
