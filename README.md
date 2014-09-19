@@ -25,7 +25,8 @@ As suggested by the TEI Boilerplate blog, XML is a type of coding language which
 My main goal was to provide markup of a document which would be readily accessible, readable and provide an organized structure of the data held within the document. 
 I felt that it was important to create an accurate representation of the online version of the text. As such I maintained many of the text formatting elements from the monograph. 
 Finally, I wanted to create a structure with defined sections to make navigation easy for the user and provide an overall structure which links all of its parts. 
-Included in the TEI Project:
+
+<p>Included in the TEI Project:</p>
 -	Header: indicates the content and purpose of the TEI project
 -	Footnotes: four footnotes were included as part of the original text
 -	Elements: Used a number of unique elements and meta-tags to organize all relevant information about the document, as well as the information contained within the document
