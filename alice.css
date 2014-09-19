@@ -1,0 +1,121 @@
+/* main layout */
+body {
+    font-family: Footlight MT Light, book antiqua, Times New Roman;
+    font-size: 16px;
+    font-weight:500;
+    line-height: 120%;
+    width: 900px;
+    margin: 20px 125px 10px 130px;
+    background-image:url('https://cloud.githubusercontent.com/assets/7362321/4341219/b4811b84-4036-11e4-9cef-87f210499ba3.gif');
+    text-indent:15px;}
+
+/*layers of the header */
+div.stdheader{
+    background-color: #FFEAA9;
+    padding: 5px 5px 11px 25px;
+    border-radius:5px;
+    border:solid black 2px;}
+
+.toc{background-color: #FFEAA9;
+    line-height: 175%;
+    list-style:none;
+    border-radius:5px;
+    margin-top:-15px;
+    margin-bottom:10px;
+    }
+div.poem1{
+    background-color: #FFEAA9;
+    text-indent:30px;
+    line-height:120%;
+    margin:0px 0px 10px 0px;
+    border-radius:5px;
+    border:solid black 2px;
+    padding: 10px 10px 15px 25px;}
+div.poem2{
+    background-color: #FFEAA9;
+    text-indent:30px;
+    line-height:120%;
+    margin: 20px 0px 10px 0px;
+    border-radius:5px;
+    border-radius:5px;
+    border:solid black 2px;
+    padding: 10px 10px 15px 25px;}
+div.chapter1{
+  background-color: #FFEAA9;
+    text-indent:30px;
+    line-height:120%;
+    margin: 20px 0px 10px 0px;
+    border-radius:5px;
+    border:solid black 2px;
+    padding: 10px 10px 15px 25px;}
+div.References{
+    background-color: #FFEAA9;
+    text-indent:hanging;
+    line-height:140%;
+    border-radius:5px;
+    border:solid black 2px;
+    padding: 10px 10px 15px 25px;
+    text-indent:hanging;
+    text-indent:-22px;
+    margin-top:5px;
+    padding-left:40px;}
+div.Notes{
+ background-color: #FFEAA9;
+    text-indent:30px;
+    line-height:120%;
+    margin: 20px 0px 10px 0px;
+    border-radius:5px;
+    border:solid black 2px;
+    padding: 10px 10px 15px 25px;   
+    list-style:georgian;
+    list-style-position:inherit;}
+.spanstyle{
+    margin-left:10px}
+.caption{
+    text-align:left;}
+.poem1{
+font-family: Footlight MT Light, book antiqua, cursive, Times New Roman;
+text-indent: -2em;
+margin-left: 2em;
+margin-top:10px}
+.poem2{
+font-family: Footlight MT Light, book antiqua, cursive, Times New Roman;
+text-indent: -2em;
+margin-left: 2em;}
+.chapter1{
+    font-family: Footlight MT Light, book antiqua, cursive, Times New Roman;
+text-indent: -2em;
+margin-left: 2em;}
+p, div.p {
+ margin-top: 15px;
+ margin-bottom:20px;}
+#fig01{
+    float:right;
+    border-radius:5px;
+    margin:15px;}
+#fig02{
+    float:right;
+    border-radius:5px;
+    margin-top:80px;
+    margin-left:0;}
+#fig03{
+    float:left;
+    border-radius:5px;
+    margin:15px;
+    margin-left:-30px;
+    margin-bottom:20px;}
+    
+li.toc a:link  {
+    text-decoration: none;
+    color:black;}
+li.toc a:visited {
+    text-decoration: none;
+    color:black;}
+li.toc a:hover  {
+    text-decoration: underline;}
+li.note a:link{text-decoration: none;
+    color:blue;}
+li.note a:visited{text-decoration: none;
+    color:black;}
+li.note a:hover{text-decoration: none;
+    color:black;}
